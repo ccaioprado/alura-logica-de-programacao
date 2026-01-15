@@ -1,6 +1,7 @@
 # Lógica de Programação
-Código utilizado para acompanhar as aulas de lógica de programação da Alura
-Conceitos abordados:
+Código da primeira versão do jogo do número secreto desenvolvido para acompanhar as aulas de lógica de programação da Alura
+
+Neste módulo, os principais tópicos foram:
 - Variáveis
 - Loops
 - Template string
